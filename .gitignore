@@ -1,3 +1,6 @@
 
 SENATE_precinct_general.csv
 __pycache__/
+*.pyc
+*~
+*.swp
